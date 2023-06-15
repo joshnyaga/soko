@@ -1,0 +1,20 @@
+{
+  "name": "soko",
+  "version": "1.0.0",
+  "description": "An api for soko system(web and app). For more details look at the app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eccomerce",
+    "app",
+    "api",
+    "soko",
+    "buy",
+    "and",
+    "sell"
+  ],
+  "author": "joshnyaga",
+  "license": "MIT"
+}
